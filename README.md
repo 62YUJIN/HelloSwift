@@ -1,8 +1,8 @@
-# Hello, Swift
+# Swift Document
 
-Xcode
+빠른 학습을 위한 Xcode playground 입니다.
 
-Swift를 통해 iOS 애플리케이션 개발을 기획하는데 어려웠을 당시에 공부하면서 기록한 문서입니다. 
+Swift를 통해 MacOS/iOS 애플리케이션 개발하기 위해 공부한 문서입니다. 
 해당 문서들은 macOS 운영체제 아래 xcode에서만 열람 및 사용 가능합니다.
 
 <a href="https://docs.swift.org/swift-book/"><p>Swift 공식 문서 보러가기</p></a>
